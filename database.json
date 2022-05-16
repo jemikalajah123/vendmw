@@ -1,0 +1,9 @@
+{
+    "dev": {
+      "driver": "pg",
+      "user": "postgres",
+      "password": "password",
+      "host": "vend_db",
+      "database": "db_name"
+    }
+}
