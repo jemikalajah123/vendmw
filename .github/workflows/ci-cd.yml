@@ -1,6 +1,6 @@
 # CI - CD workflow for vend-app
 # Handles CI for push to master branch
-name: fee-processing-service CI - CD
+name: vendmw-service CI - CD
 on:
   push:
     branches:
