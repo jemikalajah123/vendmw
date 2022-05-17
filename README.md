@@ -4,8 +4,8 @@ This app is about episodes and commenting on an episode of a series.
 
 ## Application hosted url
 
-This server-side app is hosted on heroku. Click here to go there `https://vendmw.herokuapp.com/` and confirm it works.
-All APIs created are documented on Postman. Click this link to `https://documenter.getpostman.com/view/10333949/UyxkjQym` view documentation.
+This server-side app is hosted on heroku. Click here to go there (https://vendmw.herokuapp.com/) and confirm it works.
+All APIs created are documented on Postman. Click this link to (https://documenter.getpostman.com/view/10333949/UyxkjQym) view documentation.
 
 ### Running App locally
 
@@ -26,9 +26,7 @@ npm run dev
 
 ### Open browser and visit or Open Postman to make a request
 
-```
-http://localhost:5000
-```
+(http://localhost:5000)
 
 ## Running as Docker Container
 
@@ -83,6 +81,6 @@ This will start the container again
 
 To load the welcome message of the app, visit the url below in a browser:
 
-    http://0.0.0.0:5000
+    (http://0.0.0.0:5000)
 
 Thus your adventure begins... The project is up and running.
