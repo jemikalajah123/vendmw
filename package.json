@@ -1,7 +1,10 @@
 {
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon --watch './**/*.ts' --exec 'ts-node' src/index.ts"
+    "dev": "nodemon --watch './**/*.ts' --exec 'ts-node' src/index.ts",
+    "docker:bash": "docker-compose up -d",
+    "docker:up": "docker container start api",
+    "docker:down": "docker container stop api"
   },
   "devDependencies": {
     "@types/cors": "^2.8.12",
