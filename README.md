@@ -7,6 +7,17 @@ This app is about episodes and commenting on an episode of a series.
 This server-side app is hosted on heroku. Click here to go there `https://vendmw.herokuapp.com/` and confirm it works.
 All APIs created are documented on Postman. Click this link to `https://documenter.getpostman.com/view/10333949/UyxkjQym` view documentation.
 
+### Running App locally
+
+This app is written with Nodejs; Enter the folloeing commands to start app locally
+## Setup env for the Project
+
+Create a .env file containing the keys in the env.example file with your own configs; use the cmd to create the env from your root dir
+
+```
+mkdir .env
+```
+
 ## Project setup
 
 ```
